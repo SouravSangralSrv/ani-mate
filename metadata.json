@@ -1,0 +1,8 @@
+{
+  "name": "Ani-Mate: AI VTuber Assistant",
+  "description": "A high-performance anime-themed AI assistant featuring real-time voice interaction, Hinglish support, and system-like capabilities powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
